@@ -6,7 +6,7 @@
 
 Aplikasi web Sistem Pendukung Keputusan (DSS) untuk merekomendasikan moda transportasi terbaik di wilayah Jabodetabek menggunakan metode **Analytic Hierarchy Process (AHP)**. Proyek ini dibangun menggunakan Python dan Framework Streamlit.
 
-🔗 **[Lihat Demo Aplikasi Disini]([https://spkpemilihantransportasi-dhpwdmrzsv8kjfmdhvaspe.streamlit.app/])**
+🔗 **[Lihat Demo Aplikasi Disini](https://spkpemilihantransportasi-dhpwdmrzsv8kjfmdhvaspe.streamlit.app/)**
 
 ---
 
