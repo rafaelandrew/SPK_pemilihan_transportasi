@@ -65,6 +65,6 @@ Ikuti langkah ini jika Anda ingin menjalankan aplikasi di komputer Anda sendiri:
 ## 📂 Struktur File
 ```text
 ├── spk_pemilihan_transportasi.py              # File utama aplikasi (Logika AHP & UI)
-├── requirements.txt    # Daftar library yang dibutuhkan
-├── README.md           # Dokumentasi proyek
-└── .gitignore          # File yang diabaikan oleh Git
+├── requirements.txt                           # Daftar library yang dibutuhkan
+├── README.md                                  # Dokumentasi proyek
+└── .gitignore                                 # File yang diabaikan oleh Git
