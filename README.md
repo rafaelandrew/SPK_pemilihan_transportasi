@@ -45,7 +45,7 @@ Ikuti langkah ini jika Anda ingin menjalankan aplikasi di komputer Anda sendiri:
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/rafaelandrew/SPK_pemilihan_transportasi.git](https://github.com/username-anda/nama-repo-anda.git)
+    git clone [https://github.com/rafaelandrew/SPK_pemilihan_transportasi.git](https://github.com/rafaelandrew/SPK_pemilihan_transportasi.git)
     cd nama-repo-anda
     ```
 
