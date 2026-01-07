@@ -57,14 +57,14 @@ Ikuti langkah ini jika Anda ingin menjalankan aplikasi di komputer Anda sendiri:
 
 3.  **Jalankan Aplikasi**
     ```bash
-    streamlit run app.py
+    streamlit run spk_pemilihan_transportasi.py
     ```
 
 ---
 
 ## 📂 Struktur File
 ```text
-├── app.py              # File utama aplikasi (Logika AHP & UI)
+├── spk_pemilihan_transportasi.py              # File utama aplikasi (Logika AHP & UI)
 ├── requirements.txt    # Daftar library yang dibutuhkan
 ├── README.md           # Dokumentasi proyek
 └── .gitignore          # File yang diabaikan oleh Git
